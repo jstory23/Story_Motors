@@ -1,0 +1,30 @@
+-Story Motors Website-
+
+Home page-
+*Header carrying Story Motors, address and phone number and nav tabs.
+ -Body-
+*Featured vehicles in grid like pattern.
+
+Inventory Page-
+List of available vehicles listed with a picture on the left and description on the right. clickable and takes you to the vehicle specific show page.
+
+Contact us page-
+* Map, name, address and phone number on a card similar to portfolio.
+
+About us page-
+What type vehicles we feature and why we are in the business of selling cars.
+want to provide vehicles tailored to the Utah landscape, featuring mainly toyota, subaru, and AWD vehicles.
+
+
+User story-
+*customer arrives at homepage to see name of the page at the top as well as a featured vehicle. background image of something simple yet stands out.
+*customer navigates to the inventory page to see a list setup for the inventory with pictures of the vehicles on the left hand side of the page and descriptions on the right.
+*Customer navigates to the contact us page to find Name of business, address phone number, as well as a map of the location.
+
+
+*navigation tabs for the inventory page, contact us page, and about us..
+
+
+technologies integrated.
+
+Bootstrap styling for nav tabs.
